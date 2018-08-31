@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "bone-wyrm",
+    "description": "React Native app using expo utilizing the MTG API",
+    "slug": "bone-wyrm",
+    "privacy": "public",
+    "sdkVersion": "29.0.0",
+    "platforms": ["ios", "android"],
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
