@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Tyndi25/bone-wyrm#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "expo": "^29.0.0",
     "mtgsdk": "^0.3.0",
     "react": "^16.4.2",
